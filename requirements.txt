@@ -1,0 +1,2 @@
+pymodbus==3.7.0
+pyModbusTCP==0.2.2
